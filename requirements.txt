@@ -1,0 +1,6 @@
+numpy==2.4.1
+pandas==3.0.0
+pigpio==1.78
+python-dateutil==2.9.0.post0
+RPi.GPIO==0.7.1
+six==1.17.0
